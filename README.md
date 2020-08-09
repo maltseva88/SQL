@@ -1,8 +1,4 @@
-# SQL
-
-![](Images/credit_card_fraudster.jpg)
-
-*[Credit Card Fraudster by Richard Patterson](https://www.flickr.com/photos/136770128@N07/42252105582/) | [Creative Commons Licensed](https://creativecommons.org/licenses/by/2.0/)*
+## SQL
 
 Applying SQL to analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
 
